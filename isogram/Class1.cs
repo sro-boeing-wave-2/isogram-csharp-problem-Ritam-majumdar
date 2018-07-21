@@ -4,5 +4,6 @@ namespace Isogram
 {
     public class Class1
     {
+
     }
 }
